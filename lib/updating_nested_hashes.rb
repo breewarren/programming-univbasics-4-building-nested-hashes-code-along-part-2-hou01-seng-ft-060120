@@ -61,6 +61,8 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary" 
    # Code your solution here:
 
+add_characters[epic_tragedy] = {:montague}, {
+:additional_characters
 
 
 
